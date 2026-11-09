@@ -1,0 +1,23 @@
+{
+  "name": "roasaurus",
+  "version": "1.0.0",
+  "description": "Profit, attribution and ad performance of your webshop in Claude Code, with ad audits and change proposals for your approval.",
+  "author": {
+    "name": "ROASaurus",
+    "email": "hello@roasaurus.com",
+    "url": "https://roasaurus.com"
+  },
+  "homepage": "https://roasaurus.com/integrations/mcp/claude-code",
+  "keywords": [
+    "ads",
+    "ecommerce",
+    "shopify",
+    "profit",
+    "attribution",
+    "google-ads",
+    "meta-ads",
+    "mcp"
+  ],
+  "repository": "https://github.com/roasaurus/claude-code",
+  "license": "MIT"
+}

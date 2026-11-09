@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "roasaurus": { "type": "http", "url": "https://app.roasaurus.com/mcp" }
+  }
+}

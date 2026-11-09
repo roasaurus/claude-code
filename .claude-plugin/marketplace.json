@@ -1,0 +1,15 @@
+{
+  "name": "roasaurus",
+  "owner": { "name": "ROASaurus", "email": "hello@roasaurus.com" },
+  "metadata": { "description": "The ROASaurus plugin for Claude Code: the MCP server plus skills and commands for ad audits." },
+  "plugins": [
+    {
+      "name": "roasaurus",
+      "source": "./plugins/roasaurus",
+      "description": "Profit, attribution and ad performance of your webshop in Claude Code, with ad audits and change proposals for your approval.",
+      "version": "1.0.0",
+      "category": "marketing",
+      "homepage": "https://roasaurus.com/integrations/mcp/claude-code"
+    }
+  ]
+}
